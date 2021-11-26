@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "author": "wwdcwc",
+      "id": 2,
+      "title": "wsde"
+    },
+    {
+      "author": "wwdcwc",
+      "id": 3,
+      "title": "wsde"
+    },
+    {
+      "author": "Kalpekfmskdlvmklwvmklwdvm",
+      "id": 4,
+      "title": "abcd"
+    },
+    {
+      "author": "Kalpekfmskdlvmklwvmklwdvmjhfctyc",
+      "id": 7,
+      "title": "abcdnvghc"
+    },
+    {
+      "author": "Kalpekfmskdlvmklwvmklwdvmjhfctyc",
+      "id": 8,
+      "title": "abcdnvghc"
+    },
+    {
+      "author": "Kalpekfmskdlvmklwvmklwdvmjhfctyc",
+      "id": -1,
+      "title": "abcdnvghc"
+    },
+    {
+      "author": "vfffhf",
+      "id": 10,
+      "title": "ghgh"
+    },
+    {
+      "author": "scscsc",
+      "id": 12,
+      "title": "wecwcwcfwe"
+    },
+    {
+      "author": "www",
+      "id": 13,
+      "title": "w"
+    },
+    {
+      "author": "kalpesh",
+      "id": 16,
+      "title": "android"
+    },
+    {
+      "author": "345",
+      "id": 17,
+      "title": "456"
+    },
+    {
+      "author": "sjsj",
+      "id": 18,
+      "title": "ajjhs"
+    },
+    {
+      "author": "kjjkjk",
+      "id": 655,
+      "title": "jjjh"
+    },
+    {
+      "author": "yuyu",
+      "id": 155,
+      "title": "55"
+    },
+    {
+      "author": "kalpesh",
+      "id": 133,
+      "title": "kalpesh"
+    },
+    {
+      "author": "karan",
+      "id": 987654321,
+      "title": "pristyncare"
+    },
+    {
+      "author": "vdsgrg",
+      "id": 324324,
+      "title": "fsdf"
+    },
+    {
+      "author": "asfhasf",
+      "id": 3636,
+      "title": "zcasc"
+    },
+    {
+      "author": "fwfsd",
+      "id": 1234,
+      "title": "rgsg"
+    },
+    {
+      "author": "yghjf",
+      "id": 455,
+      "title": "jhyjf"
+    },
+    {
+      "author": "fhgf",
+      "id": 123456789,
+      "title": "gfgf"
+    },
+    {
+      "author": "fhgf",
+      "id": 1234567893,
+      "title": "gfgf"
+    },
+    {
+      "author": "csdcsd",
+      "id": 123345,
+      "title": "xcafd"
+    },
+    {
+      "author": "Aggarwal",
+      "id": 98765,
+      "title": "pristynCare"
+    },
+    {
+      "author": "xyz",
+      "id": 78687,
+      "title": "care pristyn"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
